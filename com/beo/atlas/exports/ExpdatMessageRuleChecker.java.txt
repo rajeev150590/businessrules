@@ -28,7 +28,7 @@ import com.beo.atlas.util.utility.StringUtils;
  * 
  * @author akhil.babu
  * @version 1.0
- * @since 23-Jan-2018
+ * @since 05/10/2021
  */
 public class ExportsExpdatMessageRuleChecker extends CommonBusinessRule
 {
